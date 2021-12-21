@@ -12,9 +12,9 @@
 ## Post-conditions
 * Webdriver and corresponding chrome browser must close successfully.
 ## Date Tested (mm/dd/yy hh:mm:ss)
-* 8/13/21 14:06:47
+* 12/21/21 14:06:47
 ## Test Case Results (Pass / Fail / Not executed / Suspended)
-* Not executed
+* Pass
 ---
 ## Test Steps
 1. Step 1
@@ -27,5 +27,5 @@
 	* Actual Results
 		* N/A
 	* Pass / Fail / Not executed / Suspended
-		* Not executed
+		* Pass
 ---
