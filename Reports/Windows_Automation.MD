@@ -1,7 +1,7 @@
 ## Summary
-	* Pass: 4
+	* Pass: 5
 	* Fail: 0
-	* Not executed: 1
+	* Not executed: 0
 	* Suspended: 0
 	* Total: 5
 ## Details
@@ -16,7 +16,7 @@
 3. Remote\_001
 	* [AndroidTest ](..%2FTests%2FWindows%2Fautomation%2Fremote%2FAndroidTest.MD)
 	* 12/21/21 14:12:54
-	* Not executed
+	* Pass
 4. Remote\_002
 	* [AppiumTest ](..%2FTests%2FWindows%2Fautomation%2Fremote%2FAppiumTest.MD)
 	* 12/21/21 14:12:54
