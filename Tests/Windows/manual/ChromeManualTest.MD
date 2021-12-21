@@ -25,7 +25,7 @@
 	* Expected Results
 		* Test run successfully and chromewebdriver.exe is the lastest version
 	* Actual Results
-		* N/A
+		* As expected: chromewebdriver.exe is the lastes version
 	* Pass / Fail / Not executed / Suspended
 		* Pass
 ---
