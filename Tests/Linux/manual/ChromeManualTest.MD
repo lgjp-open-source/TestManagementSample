@@ -5,7 +5,7 @@
 ## Test Case Name
 * Chrome manual
 ## Test Case Description
-* Run project and make sure chromewebdriver.exe is the latest version
+* Run project and make sure chromewebdriver is the latest version
 ## Pre-conditions
 * The test machine must have internet connection
 * Chrome installed
@@ -13,9 +13,9 @@
 ## Post-conditions
 * Webdriver and corresponding chrome browser must close successfully.
 ## Date Tested (mm/dd/yy hh:mm:ss)
-* 12/21/21 15:06:47
+* 12/21/21 16:06:47
 ## Test Case Results (Pass / Fail / Not executed / Suspended)
-* Not executed
+* Pass
 ---
 ## Test Steps
 1. Step 1
@@ -24,9 +24,9 @@
 	* Test Data
 		* N/A
 	* Expected Results
-		* Test run successfully and chromewebdriver.exe is the lastest version
+		* Test run successfully and chromewebdriver is the lastest version
 	* Actual Results
-		* N/A
+		* As expected: chromewebdriver is the latest version
 	* Pass / Fail / Not executed / Suspended
-		* Not executed
+		* Pass
 ---
