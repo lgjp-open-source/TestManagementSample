@@ -13,9 +13,9 @@
 ## Post-conditions
 * Chrome browser on device must close successfully.
 ## Date Tested (mm/dd/yy hh:mm:ss)
-* 12/21/21 14:12:54
+* 12/22/21 14:12:54
 ## Test Case Results (Pass / Fail / Not executed / Suspended)
-* Not executed
+* Pass
 ---
 ## Test Steps
 1. Step 1
@@ -28,7 +28,7 @@
 	* Actual Results
 		* As expected
 	* Pass / Fail / Not executed / Suspended
-		* Not executed
+		* Pass
 2. Step 2
 	* Step Details
 		* Navigate to https://bonigarcia.org/webdrivermanager/
@@ -39,5 +39,5 @@
 	* Actual Results
 		* As expected
 	* Pass / Fail / Not executed / Suspended
-		* Not executed
+		* Pass
 ---
