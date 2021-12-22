@@ -1,26 +1,26 @@
 ## Summary
-	* Pass: 5
-	* Fail: 0
-	* Not executed: 4
+	* Pass: 8
+	* Fail: 1
+	* Not executed: 0
 	* Suspended: 0
 	* Total: 9
 ## Details
 1. Basic\_002
 	* [EdgeTest ](..%2FTests%2FWindows%2Fautomation%2Fbasic%2FEdgeTest.MD)
-	* 08/13/21 14:31:20
-	* Not executed
+	* 12/21/21 14:31:20
+	* Fail
 2. Basic\_003
 	* [FirefoxTest ](..%2FTests%2FWindows%2Fautomation%2Fbasic%2FFirefoxTest.MD)
-	* 08/13/21 14:06:04
-	* Not executed
+	* 12/21/21 14:06:04
+	* Pass
 3. Basic\_004
 	* [InternetExplorerTest ](..%2FTests%2FWindows%2Fautomation%2Fbasic%2FInternetExplorerTest.MD)
-	* 08/18/21 18:36:31
-	* Not executed
+	* 12/21/21 18:36:31
+	* Pass
 4. Basic\_001
 	* [ChromeTest ](..%2FTests%2FWindows%2Fautomation%2Fbasic%2FChromeTest.MD)
-	* 08/13/21 14:06:47
-	* Not executed
+	* 12/21/21 14:06:47
+	* Pass
 5. Remote\_004
 	* [RemoteWebRtcFirefoxTest ](..%2FTests%2FWindows%2Fautomation%2Fremote%2FRemoteWebRtcFirefoxTest.MD)
 	* 12/21/21 14:12:54
