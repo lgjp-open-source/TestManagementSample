@@ -14,9 +14,9 @@
 ## Post-conditions
 * Webdriver and corresponding chrome browser must close successfully.
 ## Date Tested (mm/dd/yy hh:mm:ss)
-* 8/13/21 14:06:47
+* 12/21/21 14:06:47
 ## Test Case Results (Pass / Fail / Not executed / Suspended)
-* Not executed
+* Pass
 ---
 ## Test Steps
 1. Step 1
@@ -27,9 +27,9 @@
 	* Expected Results
 		* Chrome open successully then navigate to https://bonigarcia.org/webdrivermanager/
 	* Actual Results
-		* N/A
+		* As expected
 	* Pass / Fail / Not executed / Suspended
-		* Not executed
+		* Pass
 2. Step 2
 	* Step Details
 		* Click element has id = "examples"
@@ -38,7 +38,7 @@
 	* Expected Results
 		* element tagName= "body" has text value = "WebDriverManager"
 	* Actual Results
-		* N/A
+		* As expected
 	* Pass / Fail / Not executed / Suspended
-		* Not executed
+		* Pass
 ---

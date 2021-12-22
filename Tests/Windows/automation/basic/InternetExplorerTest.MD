@@ -15,9 +15,9 @@
 ## Post-conditions
 * Webdriver and corresponding InternetExplorer browser must close successfully.
 ## Date Tested (mm/dd/yy hh:mm:ss)
-* 8/18/21 18:36:31
+* 12/21/21 18:36:31
 ## Test Case Results (Pass / Fail / Not executed / Suspended)
-* Not executed
+* Pass
 ---
 ## Test Steps
 1. Step 1
@@ -28,9 +28,9 @@
 	* Expected Results
 		* InternetExplorer open successully then navigate to https://bonigarcia.org/webdrivermanager/
 	* Actual Results
-		* N/A
+		* As expected
 	* Pass / Fail / Not executed / Suspended
-		* Not executed
+		* Pass
 2. Step 2
 	* Step Details
 		* Click element has id = "examples"
@@ -41,5 +41,5 @@
 	* Actual Results
 		* As expected
 	* Pass / Fail / Not executed / Suspended
-		* Not executed
+		* Pass
 ---
