@@ -1,13 +1,13 @@
 ## Summary
-	* Remote\_003
-	* RemoteTest
+	* Manual\_002
+	* Safari manual
 	* Pass: 1
 	* Fail: 0
 	* Not executed: 1
 	* Suspended: 0
 	* Total: 2
 ## Details
-1. 12/22/21 14:12:54
+1. 12/22/21 14:06:47
 	* Pass
-2. 12/21/21 14:12:54
+2. 12/21/21 14:06:47
 	* Not executed
